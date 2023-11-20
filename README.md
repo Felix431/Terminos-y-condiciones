@@ -13,15 +13,15 @@ Terminos y condiciones
 <p>6.- Presentar en forma visible y clara los precios de los alimentos ofrecidos.</p>
 <p>7.- Tener buenas relaciones entre el personal y con los clientes.</p>
 
-Politica de privacidad
+<p>Politica de privacidad</p>
 
-1.-Información recogida.
+<p>1.-Información recogida.</p>
 
-2.- Uso de información recogida.
+<p>2.- Uso de información recogida.</p>
 
-3.- Cookies.
+<p>3.- Cookies.</p>
 
-4.- Control de su información personal
+<p>4.- Control de su información personal</p>
 
 </body>
 </html>
