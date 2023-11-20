@@ -1,5 +1,6 @@
 # Terminos-y-condiciones
 Terminos y condiciones
+
 1.- Brindar un servicio eficiente y de calidad a cualquier publico.
 
 2.- Garantizar que la producción diaria debe realizarse bajo estrictas normas de higiene y manipulación de alimentos y bajo la supervisión.
