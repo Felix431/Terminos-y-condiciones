@@ -15,6 +15,7 @@ Terminos y condiciones
 7.- Tener buenas relaciones entre el personal y con los clientes.
 
 Politicas y seguridad
+
 1.-Información recogida.
 
 2.- Uso de información recogida.
